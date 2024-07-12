@@ -3,10 +3,10 @@
 I'm Johannes, a Machine Learning enthusiast from Germany, currently working as Data Scientist for celebrate company.
 
 I'm especially interested in:
-📸 Computer Vision
-👯‍♂️ Multimodal Models
-🧑‍🏫 ML/AI Education
-👷 Applied AI
+- 📸 Computer Vision
+- 👯‍♂️ Multimodal Models
+- 🧑‍🏫 ML/AI Education
+- 👷 Applied AI
 
 
 
